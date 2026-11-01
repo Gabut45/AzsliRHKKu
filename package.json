@@ -1,0 +1,11 @@
+{
+  "name": "bimbingan-dan-pembinaan-peserta-didik-24-kediri",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "zitejs": "0.9.148"
+  }
+}
